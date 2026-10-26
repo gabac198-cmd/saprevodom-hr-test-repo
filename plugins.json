@@ -1,0 +1,22 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
+    "fileHash": "sha256-c4b2826409c6e94570cbe420cbfb568a326c79d470047887d4c4e0b7583f70ff",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
+    "fileSize": 46963,
+    "status": 1,
+    "authors": [
+      "SaPrevodom"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "SaPrevodomHrTest",
+    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski titl kao drugi track",
+    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
+    "name": "SaPrevodomHrTest"
+  }
+]
