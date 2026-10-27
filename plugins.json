@@ -1,22 +1,24 @@
 [
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
-    "fileHash": "sha256-783819347663f7c4df64399ad3763074535bbd58cd0a3a5a4d695730837d5c53",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "fileSize": 67595,
+    "url": "https://x0.at/WFdh.cs3",
     "status": 1,
+    "version": 18,
+    "apiVersion": 1,
+    "language": "hr",
+    "name": "SaPrevodom (Filmovi/Serije) HR test",
+    "internalName": "SaPrevodomHrTest",
     "authors": [
-      "SaPrevodom"
+      "gabac198",
+      "TeraAI"
     ],
+    "description": "SaPrevodom HR - test verzija 18. Redoslijed u playeru: StellarConductor prvi, Vidara drugi, ostali poslije.",
+    "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=256",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 16,
-    "internalName": "SaPrevodomHrTest",
-    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v16: Vidara ispravno prepoznata kao drugi server koji radi)",
-    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
-    "name": "SaPrevodomHrTest"
+    "fileSize": 69477,
+    "fileHash": "sha256-e7e1139bf967bae7d7278bef54a7984705e68d4abaa90710e9aff16c998fdad8"
   }
 ]
