@@ -7,10 +7,16 @@
     "language": "hr",
     "name": "SaPrevodom (Filmovi/Serije) HR test",
     "internalName": "SaPrevodomHrTest",
-    "authors": ["gabac198", "TeraAI"],
+    "authors": [
+      "gabac198",
+      "TeraAI"
+    ],
     "description": "SaPrevodom HR - test verzija 17. Redoslijed u playeru: StellarConductor prvi, Vidara drugi, ostali poslije.",
-    "iconUrl": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/icon.png",
-    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": null,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "fileSize": 69477,
     "fileHash": "5dcd4e93358eaf82eee59b2dd515bf0554555233ce922d95af205db57e1b41c5"
   }

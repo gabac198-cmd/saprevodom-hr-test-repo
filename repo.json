@@ -2,19 +2,8 @@
   "name": "SaPrevodom HR test repo",
   "description": "Testni repozitorij za SaPrevodom HR (CloudStream).",
   "manifestVersion": 1,
-  "plugins": [
-    {
-      "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
-      "status": 1,
-      "version": 17,
-      "apiVersion": 1,
-      "language": "hr",
-      "name": "SaPrevodom (Filmovi/Serije) HR test",
-      "internalName": "SaPrevodomHrTest",
-      "authors": ["gabac198", "TeraAI"],
-      "description": "SaPrevodom HR - test verzija 17.",
-      "iconUrl": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/icon.png",
-      "tvTypes": ["Movie", "TvSeries"]
-    }
+  "iconUrl": null,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
   ]
 }
