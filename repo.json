@@ -1,8 +1,10 @@
-{
-  "name": "SaPrevodom HR TEST",
-  "description": "SaPrevodom.online - test repozitorij (v14: uklonjen VidFast, kraca cekanja)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
-  ]
-}
+[
+  {
+    "name": "SaPrevodom HR test repo",
+    "description": "v19 - popravljeni titlovi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "plugins.json"
+    ]
+  }
+]
