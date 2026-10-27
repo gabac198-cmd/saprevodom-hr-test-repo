@@ -1,74 +1,9 @@
-SaPrevodom HR TEST - VERZIJA 14
-================================
-
-TVOJE PITANJE: ZASTO JE VIDFAST UOPCE BIO TU?
----------------------------------------------
-Da, dobro se sjecas - ali ne u potpunosti, pa da razjasnim.
-
-VidFast je drzan kao JOS JEDAN izvor za VIDEO link. Ideja je bila: ako neki
-server zakaze, ovaj mozda ipak da link. Nije bio tu zbog titlova.
-
-TITLOVI - TOCAN ODGOVOR
------------------------
-Titlove NE daje ni jedan od tih video servera, pa ni VidFast. Titlove trazi
-nas vlastiti modul iz OpenSubtitles baze titlova, i to preko IMDb broja filma
-(npr. tt0083511). Taj broj dobijemo iz podataka o filmu, neovisno o serverima
-za video.
-
-Znaci: uklanjanje VidFasta NE MOZE pokvariti titlove. Oni stoje odvojeno.
-Hrvatski, hrvatski+, srpski, srpski+ i bosanski ostaju kao i do sada.
-
-Zakljucak: tvoje razmisljanje je dobro. VidFast nije davao filmove, a njegovo
-jedino opravdanje (rezervni izvor) je time nestalo. Zato je u v14 uklonjen.
-
-STA RADI v14
-------------
-1) VidFast je izbacen iz popisa.
-   Potpuno se preskace: nema zahtjeva, nema skrivenog preglednika, ne trosi
-   mjesto. Ako se ikad pokaze da opet radi, vraca se jednom rijecju - nista
-   se ne izgubi, kao sto i sam kazes.
-
-2) Kraca cekanja (svaki server ima svoj tvrdi rok).
-   - Normalni serveri: do 11 sekundi (prije 12).
-   - Poznato nepouzdani: do 6 sekundi (prije 7).
-   - Skriveni preglednik: do 8 sekundi, najvise 3 odjednom.
-   - Titlovi: najvise 3 sekunde (prije 12). Titlovi su sporedni i vise ne
-     drze link na cekanju.
-
-3) Tvrdi rok za cijeli popis: 12 sekundi (prije 16).
-
-ISKRENO O VREMENU (moras ovo znati)
------------------------------------
-Nisam ti mogao testirati brzinu, jer se pokretanje filma ovdje ne testira.
-Ne mogu ti obecati broj sekundi.
-
-Ono sto znam:
-- Drugi put kad otvoris ISTI film, link je gotov za 3-5 sekundi. To je
-  ugrađena memorija samog CloudStreama (zapamti zadnji link), ne nasa
-  promjena. Zato se tu razlika i ne moze vidjeti - ni u v11, ni v12, ni v13.
-- Prvi put na novom naslovu nas link ovisi o tim serverima. Dio njih su teski
-  JavaScript playeri i oni nose vecinu vremena. Kad su oni spori, spori su i
-  nasi linkovi.
-- Ono sto MOZEMO jest da ne cekamo nista sto ne moramo. To je ono sto v14
-  priblizava: izbacen server koji ne radi, kraca cekanja, titlovi ne drze.
-
-MOLIM TE: probaj v14 na filmu koji nikad prije nisi otvorio i javi koliko je
-trajalo. Ako je i dalje oko 25 sekundi, to znaci da vrijeme odlazi na same
-serveretske JavaScript playere (Stellar i slicne), a ne na nase cekanje - i
-tada je sljedeci korak drugaciji (gledamo sto od tih servera je najbrzi i
-njega guramo prvi). Reci mi i koji server ti prvi da link.
-
-KAKO INSTALIRATI
-----------------
-1. CloudStream -> Postavke -> Dodaci / Repozitoriji.
-2. Dodaj repozitorij i zalijepi .json link.
-3. Osvjezi pa instaliraj / nadogradi "SaPrevodomHrTest" na verziju 14.
-
-SADRZAJ PAKETA (sve ide u istu mapu, npr. main)
------------------------------------------------
-- UPUTSTVO.txt
-- SaPrevodomHrTest.cs3
-- plugins.json
-- repo.json
-
-Build je prosao bez greske.
+SaPrevodom HR test - v19 (popravljeni titlovi)
+=============================================
+1) U CloudStreamu: Settings > Extensions > Add repository
+2) Zalijepi link do repo.json (vidi poruku)
+3) Instaliraj: SaPrevodom (Filmovi/Serije) HR test
+4) Otvori film/seriju > play > Subtitle > odaberi:
+   HRVATSKI (Croatian / Croatian +), SRPSKI (Serbian / Serbian +), BOSANSKI (Bosnian)
+NAPOMENA: titlovi u CP1250 (starije kodiranje) mogu se prikazati s pogresnim
+slovima - to je ogranicenje playera, ne pretrage.
