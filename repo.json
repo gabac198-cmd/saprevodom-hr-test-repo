@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR TEST",
-  "description": "SaPrevodom.online - test repozitorij (v12: brzi prvi link, bez cekanja zadnjeg servera)",
+  "description": "SaPrevodom.online - test repozitorij (v13: preskacemo beskorisna cekanja)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
