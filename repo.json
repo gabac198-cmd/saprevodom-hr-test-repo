@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR TEST",
-  "description": "TEST repo - SaPrevodom + hrvatski, bosanski i rezervni titlovi (vise trackova u playeru)",
+  "description": "SaPrevodom.online - test repozitorij (v11: brze ucitavanje servera i titlova)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
