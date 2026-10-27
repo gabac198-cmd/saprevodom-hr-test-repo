@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR TEST",
-  "description": "SaPrevodom.online - test repozitorij (v14: uklonjen VidFast, kraca cekanja)",
+  "description": "SaPrevodom.online - test repozitorij (v16: Vidara ispravno prepoznata kao drugi server koji radi)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
