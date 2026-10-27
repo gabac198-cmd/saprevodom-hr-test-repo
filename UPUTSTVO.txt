@@ -1,9 +1,13 @@
-SaPrevodom HR test - v19 (popravljeni titlovi)
-=============================================
-1) U CloudStreamu: Settings > Extensions > Add repository
-2) Zalijepi link do repo.json (vidi poruku)
-3) Instaliraj: SaPrevodom (Filmovi/Serije) HR test
-4) Otvori film/seriju > play > Subtitle > odaberi:
-   HRVATSKI (Croatian / Croatian +), SRPSKI (Serbian / Serbian +), BOSANSKI (Bosnian)
-NAPOMENA: titlovi u CP1250 (starije kodiranje) mogu se prikazati s pogresnim
-slovima - to je ogranicenje playera, ne pretrage.
+SaPrevodom HR test - v19 (popravljeni titlovi)  [ISPRAVLJENI LINKOVI]
+=====================================================================
+A) AUTOMATSKI (preporuceno)
+   1) CloudStream > Settings > Extensions > Add repository
+   2) Zalijepi REPO link (.json)
+   3) Otvori repozitorij > Install "SaPrevodomHrTest" (v19)
+B) RUCNO (ako A ne uspije)
+   1) Raspakiraj ovaj zip
+   2) Instaliraj SaPrevodomHrTest.cs3 iz CloudStreama (Local plugin)
+TITLOVI: play > Subtitle > HRVATSKI (Croatian / Croatian +),
+         SRPSKI (Serbian / Serbian +), BOSANSKI (Bosnian)
+NAPOMENA: CP1250 titlovi mogu se prikazati s pogresnim slovima
+(ogranicenje playera, ne pretrage).
