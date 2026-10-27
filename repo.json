@@ -1,10 +1,8 @@
-[
-  {
-    "name": "SaPrevodom HR test repo",
-    "description": "SaPrevodom.online - test repozitorij (v19 - popravljeni titlovi)",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://x0.at/HoC1.json"
-    ]
-  }
-]
+{
+  "name": "SaPrevodom HR test repo",
+  "description": "SaPrevodom.online - test repozitorij (v19 - popravljeni titlovi)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://x0.at/HoC1.json"
+  ]
+}
