@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
-    "fileHash": "sha256-3600e4c242e00ba983e9d9b40b4873356f5916c079236d7753b13ef74bf11a64",
+    "fileHash": "sha256-dc41b2347064e6e0e58f3f7bdfbb649a132e1f19b67c5a2edf2d137a1dd0962f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "fileSize": 63117,
+    "fileSize": 65193,
     "status": 1,
     "authors": [
       "SaPrevodom"
@@ -13,9 +13,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "SaPrevodomHrTest",
-    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v11: brze)",
+    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v12: brzi prvi link)",
     "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
     "name": "SaPrevodomHrTest"
   }
