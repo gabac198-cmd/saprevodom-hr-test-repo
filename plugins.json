@@ -1,24 +1,22 @@
 [
   {
-    "url": "https://x0.at/WFdh.cs3",
-    "status": 1,
-    "version": 18,
+    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
+    "fileHash": "sha256-2c7b36fa62020b86b51920fc966cee1bcf3578a727e904db4c851ab34365fc1f",
     "apiVersion": 1,
-    "language": "hr",
-    "name": "SaPrevodom (Filmovi/Serije) HR test",
-    "internalName": "SaPrevodomHrTest",
-    "authors": [
-      "gabac198",
-      "TeraAI"
-    ],
-    "description": "SaPrevodom HR - test verzija 18. Redoslijed u playeru: StellarConductor prvi, Vidara drugi, ostali poslije.",
     "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=256",
+    "fileSize": 66805,
+    "status": 1,
+    "authors": [
+      "SaPrevodom"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "fileSize": 69477,
-    "fileHash": "sha256-e7e1139bf967bae7d7278bef54a7984705e68d4abaa90710e9aff16c998fdad8"
+    "version": 15,
+    "internalName": "SaPrevodomHrTest",
+    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v15: Stellar prvi i zasticen, ne cekamo ostale)",
+    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
+    "name": "SaPrevodomHrTest"
   }
 ]
