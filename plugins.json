@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
-    "fileHash": "sha256-1244e5e19324b8c97afa9d2c23239d21726c62345ddb9d13528df308a09088a2",
+    "fileHash": "sha256-ccef64fce3d2a0a43d124fee246b207a96650211ddbb26ac7e39abe27a75aaaf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "fileSize": 65523,
+    "fileSize": 65810,
     "status": 1,
     "authors": [
       "SaPrevodom"
@@ -13,9 +13,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "SaPrevodomHrTest",
-    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v13: preskacemo beskorisna cekanja)",
+    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v14: uklonjen VidFast, kraca cekanja)",
     "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
     "name": "SaPrevodomHrTest"
   }
