@@ -1,8 +1,7 @@
 {
-  "name": "SaPrevodom HR test repo",
-  "description": "Testni repozitorij za SaPrevodom HR (CloudStream).",
+  "name": "SaPrevodom HR TEST",
+  "description": "SaPrevodom.online - test repozitorij (v16: Vidara ispravno prepoznata kao drugi server koji radi)",
   "manifestVersion": 1,
-  "iconUrl": null,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
   ]
