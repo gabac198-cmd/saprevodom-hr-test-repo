@@ -1,11 +1,20 @@
 [
   {
-    "internalName": "SaPrevodomHrTest",
-    "name": "SaPrevodom HR test",
-    "description": "SaPrevodom.online - filmovi, serije i domaci sadrzaj sa prevodom (hrvatski/srpski) - v26",
-    "version": 26,
     "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
     "status": 1,
-    "authors": ["gabac198-cmd"]
+    "version": 28,
+    "name": "SaPrevodom HrTest",
+    "internalName": "SaPrevodomHrTest",
+    "description": "SaPrevodom.online test v28",
+    "authors": [
+      "recloudstream"
+    ],
+    "repositoryUrl": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/repo.json",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "hr",
+    "iconUrl": ""
   }
 ]

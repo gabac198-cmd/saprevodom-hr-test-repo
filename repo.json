@@ -1,6 +1,6 @@
 {
-  "name": "SaPrevodom HR test",
-  "description": "SaPrevodom.online prevodi (hrvatski/srpski) - v26 test repo",
+  "name": "SaPrevodom HR test repo",
+  "description": "SaPrevodom.online - test repozitorij (v28 - posteri, priprema linkova, pamcenje servera)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
