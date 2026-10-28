@@ -1,22 +1,21 @@
 [
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
-    "fileHash": "sha256-8a09f7ecfe95d31a8220a6624898b5f8966722b97ecf5b704f0fa5907e14d03a",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "fileSize": 55438,
-    "status": 1,
-    "authors": [
-      "SaPrevodom"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 10,
-    "internalName": "SaPrevodomHrTest",
-    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi",
-    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
-    "name": "SaPrevodomHrTest"
-  }
+ {
+  "internalName": "SaPrevodomHrTest",
+  "name": "SaPrevodom HR test",
+  "description": "Hrvatski i srpski titlovi (test)",
+  "authors": [
+   "gabac198-cmd"
+  ],
+  "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
+  "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
+  "status": 1,
+  "version": 25,
+  "iconUrl": "",
+  "apiVersion": 1,
+  "language": "sr",
+  "tvTypes": [
+   "Movie",
+   "TvSeries"
+  ]
+ }
 ]
