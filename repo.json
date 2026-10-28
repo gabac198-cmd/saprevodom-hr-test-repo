@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR test repo",
-  "description": "SaPrevodom.online - test repozitorij (v22 - titlovi se dostavljaju kao prava datoteka)",
+  "description": "SaPrevodom.online - test repozitorij (v23 - titlovi s ispravnim hrvatskim slovima)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
