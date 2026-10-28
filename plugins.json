@@ -1,11 +1,12 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=saprevodom.online&sz=128",
-    "fileHash": "sha256-ccef64fce3d2a0a43d124fee246b207a96650211ddbb26ac7e39abe27a75aaaf",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/gabac198-cmd/saprevodom-hr-test-repo",
-    "fileSize": 65810,
+    "repositoryUrl": "",
+    "fileSize": 37371,
+    "fileHash": "sha256-4041d2efaf00c089d1b001ca7ec201519e6d87c8da8d75b01d6e037374b3c65d",
     "status": 1,
+    "language": "hr",
     "authors": [
       "SaPrevodom"
     ],
@@ -13,10 +14,10 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 14,
-    "internalName": "SaPrevodomHrTest",
-    "description": "TEST: SaPrevodom.online - filmovi, serije i domaci + hrvatski, bosanski i rezervni titlovi (v14: uklonjen VidFast, kraca cekanja)",
-    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/SaPrevodomHrTest.cs3",
-    "name": "SaPrevodomHrTest"
+    "version": 1,
+    "internalName": "SaPrevodomProvider",
+    "description": "SaPrevodom.online - filmovi i serije sa hrvatskim/srpskim prevodom",
+    "url": "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-repo/main/SaPrevodomProvider.cs3",
+    "name": "SaPrevodomProvider"
   }
 ]
