@@ -1,8 +1,8 @@
 {
-  "name": "SaPrevodom",
-  "description": "SaPrevodom.online - filmovi i serije sa hrvatskim/srpskim prevodom",
+  "name": "SaPrevodom HR test repo",
+  "description": "SaPrevodom.online - test repozitorij (v20 - titlovi izravno sa izvora)",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-repo/main/plugins.json"
+    "https://x0.at/6Tmt.json"
   ]
 }
