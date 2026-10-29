@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR test repo",
-  "description": "SaPrevodom.online - test repozitorij (v29 - ispravan referer, prikljucivanje na warm-up, jedan Stellar, warm-up van glavnog reda)",
+  "description": "SaPrevodom.online - test repozitorij (v30 - linkovi prezive gasenje app-a, ranija priprema epizoda)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
