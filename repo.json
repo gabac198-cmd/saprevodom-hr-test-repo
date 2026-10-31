@@ -1,6 +1,6 @@
 {
   "name": "SaPrevodom HR test repo",
-  "description": "SaPrevodom.online - test repozitorij (v32 - priprema unaprijed: vidljivi ekran + sljedeca stranica, 6 naslova; naucna fantastika; domaci)",
+  "description": "SaPrevodom.online - test repozitorij (v33 - ispravljena adresa preuzimanja; 7 stavki u stranom izborniku; priprema unaprijed)",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gabac198-cmd/saprevodom-hr-test-repo/main/plugins.json"
